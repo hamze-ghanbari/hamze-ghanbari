@@ -8,8 +8,8 @@
 - 📫 How to reach me **ghanbarih243@gmail.com**
   <br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamze-ghanbari&" alt="hamze-ghanbari" />
- <br><br>
-
+ <br>
+ 
 ### Skills
 ```javascript
 | FrontEnd     | Frameworks    | Databases    | Languages  | Libraries | Desing   | Tools
@@ -19,6 +19,6 @@
 | Sass         |               |              | TypeScript | RxJs      |          | GitHub
 |              |               |              | JavaScript |           |          |
 ```
-
+<br><br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamze-ghanbari&theme=gotham&layout=compact)](https://github.com/hamze-ghanbari/hamze-ghanbari)
 ![Arman's github stats](https://github-readme-stats.vercel.app/api?username=hamze-ghanbari&show_icons=true&theme=gotham) 
