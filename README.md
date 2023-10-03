@@ -6,8 +6,8 @@
 - 💬 Ask me about **PHP & Laravel**
 
 - 📫 How to reach me **ghanbarih243@gmail.com**
-  <br><br>  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamze-ghanbari&" alt="hamze-ghanbari" />
+  <br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamze-ghanbari&" alt="hamze-ghanbari" />
  <br><br>
 
 ### Skills
