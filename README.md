@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hamze Ghanbari </h1>
+<img 
+     align="right" alt="Coding" width="350" 
+     src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
+     
+- 💬 Ask me about **PHP & Laravel**
 
-<!--
-**hamze-ghanbari/hamze-ghanbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **ghanbarih243@gmail.com**
+  <br><br>  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamze-ghanbari&" alt="hamze-ghanbari" />
+ <br><br>
 
-Here are some ideas to get you started:
+### Skills
+```javascript
+| FrontEnd     | Frameworks    | Databases    | Languages  | Libraries | Desing   | Tools
+| ------------ | ------------- | ------------ | ---------- | -------   | -------- | ------
+| HTML/CSS     | Angular       | MySQL        | PHP        | Jquery    | Rest Api | Git
+| Bootstrap    | Laravel       |              | SQL        | axios     | MVC      | GitLab
+| Sass         |               |              | TypeScript | RxJs      |          | GitHub
+|              |               |              | JavaScript |           |          |
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamze-ghanbari&theme=gotham&layout=compact)](https://github.com/hamze-ghanbari/hamze-ghanbari)
+![Arman's github stats](https://github-readme-stats.vercel.app/api?username=hamze-ghanbari&show_icons=true&theme=gotham) 
