@@ -3,7 +3,7 @@
      align="right" alt="Coding" width="350" 
      src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
      
-- 💬 Ask me about **PHP & Laravel**
+- 💬 Ask me about **PHP & Laravel & JavaScript & Angular**
 
 - 📫 How to reach me **ghanbarih243@gmail.com**
   <br><br><br><br><br><br>
