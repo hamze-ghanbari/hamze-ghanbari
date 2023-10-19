@@ -20,7 +20,6 @@
 |              |               |              | JavaScript |           |          |
 ```
 
-  <br><br>
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamze-ghanbari&" alt="hamze-ghanbari" /> -->
  <br>
  
