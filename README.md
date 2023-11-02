@@ -15,8 +15,8 @@
 | FrontEnd     | Frameworks    | Databases    | Languages  | Libraries | Desing   | Tools
 | ------------ | ------------- | ------------ | ---------- | -------   | -------- | ------
 | HTML/CSS     | Angular       | MySQL        | PHP        | Jquery    | Rest Api | Git
-| Bootstrap    | Laravel       |              | SQL        | axios     | MVC      | GitLab
-| Sass         |               |              | TypeScript | RxJs      |          | GitHub
+| Bootstrap    | Laravel       |              | SQL        | RxJs      | MVC      | GitLab
+| Sass         |               |              | TypeScript |           |          | GitHub
 |              |               |              | JavaScript |           |          |
 ```
 
