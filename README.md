@@ -6,7 +6,7 @@
 
     
      
-- 💬 Ask me about **PHP & Laravel & JavaScript & Angular**
+- 💬 Ask me about **PHP & Laravel & JavaScript & TypeScript & Angular**
 
 - 📫 How to reach me **ghanbarih243@gmail.com**
 
