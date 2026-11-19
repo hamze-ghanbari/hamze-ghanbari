@@ -17,7 +17,7 @@
 | HTML/CSS     | Angular       | MySQL        | PHP        | Jquery    | Rest Api | Git
 | Bootstrap    | Laravel       |              | SQL        | RxJs      | MVC      | GitLab
 | Sass         |               |              | TypeScript |           |          | GitHub
-|              |               |              | JavaScript |           |          |
+| Tailwind     |               |              | JavaScript |           |          |
 ```
 
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamze-ghanbari&" alt="hamze-ghanbari" /> -->
